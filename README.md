@@ -1,16 +1,17 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, meu nome é Thiago Viana, curto games, matemática e sou <strong>apaixonado por programação</strong>.<br>
-  Atualmente trabalho na <a href="https://www.oxigenweb.com.br/" target="_blank">Oxigenweb</a>, e estou cursando <strong>Análise e desenvolvimento de sistemas</strong> na Fatec em Presidente Prudente,
+  Olá, meu nome é Thiago Viana, Sou um programador quase Pleno, no qual adora programar, seja no trabalho ou por diversão, priorizo criar projetos clean code e bem feitos.<br>
+  trabalhei 1 ano e 8 meses na <a href="https://www.oxigenweb.com.br/" target="_blank">Oxigenweb</a>
+  Atualmente estou cursando <strong>Análise e desenvolvimento de sistemas</strong> na Fatec de Presidente Prudente, com previsão de conclusão no final de 2021
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript, Java, PHP, Dart e Python básico</strong>, Português e Inglês Intermediário
+  🦄 Linguagens: <strong>Stack front: Html, Css e Javascript<br>E outras: Java, PHP, Dart e Python</strong>, tenho um português nativo e Inglês Intermediário
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Typescript, Wordpress, Scss, Flutter, Node, Batch scripts, Java Swing, Desenvolvimento Android nativo com Java, Heroku, Docker</strong>
+  💼 Ferramentas: <strong>Typescript, Wordpress, Scss, Flutter, Nodejs, Batch, Bash, Vim, Java Swing, Desenvolvimento Android nativo com Java, Heroku, Docker, CI/CD com github actions</strong>
 </p>
 
 <p align="left">

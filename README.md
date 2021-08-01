@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, meu nome é Thiago Viana, Sou um programador quase Pleno, no qual adora programar, seja no trabalho ou por diversão, priorizo criar projetos clean code e bem feitos.<br>
-  trabalhei 1 ano e 8 meses na <a href="https://www.oxigenweb.com.br/" target="_blank">Oxigenweb</a>
+  trabalhei 1 ano e 8 meses na <a href="https://www.oxigenweb.com.br/" target="_blank">Oxigenweb</a><br>
   Atualmente estou cursando <strong>Análise e desenvolvimento de sistemas</strong> na Fatec de Presidente Prudente, com previsão de conclusão no final de 2021
 </p>
 
